@@ -49,6 +49,10 @@
 
 <<modelopgraph.stability.*>>
 
+**Ethical Fairness / Bias:**
+
+<<modelopgraph.groupbias.gender>>
+
 
 **NOTE:** For instructions, references, resources, contributors, and disclaimers, please refer to the full documentation located at [www.chai.org](http://www.chai.org).
 
@@ -61,3 +65,5 @@ You are free to share this material (copy and redistribute it in any medium or f
 - **No Derivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 For more information about this license, visit [creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
