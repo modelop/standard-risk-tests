@@ -55,7 +55,7 @@ def metrics(comparator) -> dict:
 
     result = utils.merge(
         extract_model_fields(execution_errors_array),
-        calculate_performance(comparator, execution_errors_array)
+        calculate_performance(comparator, execution_errors_array),
         calculate_kolmogorov_smirnov_test(comparator, execution_errors_array),
         calculate_pii(comparator, execution_errors_array)
     )
